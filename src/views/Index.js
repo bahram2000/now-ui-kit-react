@@ -42,22 +42,7 @@ function Index() {
       <IndexNavbar />
       <div className="wrapper">
         <IndexHeader />
-        // <div className="main">
-        //   <Images />
-        //   <BasicElements />
-        //   <Navbars />
-        //   <Tabs />
-        //   <Pagination />
-        //   <Notifications />
-        //   <Typography />
-        //   <Javascript />
-        //   <Carousel />
-        //   <NucleoIcons />
-        //   <CompleteExamples />
-        //   <SignUp />
-        //   <Examples />
-        //   <Download />
-        // </div>
+  
         <DarkFooter />
       </div>
     </>
